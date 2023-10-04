@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7083aace-2d9b-436a-90ed-bef0bfe69114" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+    <list default="true" id="7083aace-2d9b-436a-90ed-bef0bfe69114" name="Changes" comment="corrected file .gitignore">
+      <change afterPath="$PROJECT_DIR$/src/main/java/SecondFile.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,6 +56,14 @@
       <workItem from="1696316532404" duration="1903000" />
       <workItem from="1696320522517" duration="914000" />
     </task>
+    <task id="LOCAL-00001" summary="corrected file .gitignore">
+      <created>1696400232727</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1696400232727</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -111,6 +119,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="commit vls.xml" />
-    <option name="LAST_COMMIT_MESSAGE" value="commit vls.xml" />
+    <MESSAGE value="corrected file .gitignore" />
+    <option name="LAST_COMMIT_MESSAGE" value="corrected file .gitignore" />
   </component>
 </project>
